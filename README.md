@@ -137,7 +137,7 @@ Assurez-vous d'avoir les éléments suivants installés sur votre machine :
 - **Soulayman Chedid**
 
 ### Contributions
-- **Ali Mantach :** Modélisation des espèces et interactions.
+- **Ali Mantach,Shakib Youssef:** Modélisation des espèces et interactions.
 - **Safia Khalil :** Développement de l’interface graphique.
 - **Shakib Youssef ,Soulayman Chedid :** Gestion des environnements et des ressources.
 
