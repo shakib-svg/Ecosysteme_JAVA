@@ -4,7 +4,7 @@ Ce projet consiste en une simulation d'écosystème dynamique et interactif, mod
 
 ---
 
-## Table des Matières
+## Table des Matières :
 1. [Introduction](#introduction)
 2. [Fonctionnalités Principales](#fonctionnalités-principales)
 3. [Technologies Utilisées](#technologies-utilisées)
